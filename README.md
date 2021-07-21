@@ -1,5 +1,5 @@
 # public-list-of-name-servers
-A list of public name servers including DNSCrypt, DoT, and DoH resolvers compiled from different resources into a consumable list for services such as pfblockerng, iptables, firewalld, etc.
+A list of public resolvers (dns servers, name servers, etc.) including DNSCrypt, DoT, and DoH resolvers compiled from different resources into a consumable list for services such as pfblockerng, iptables, firewalld, etc.
 
 ## Resources
 * https://github.com/DNSCrypt/dnscrypt-resolvers
