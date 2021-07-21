@@ -14,7 +14,7 @@ A list of public resolvers (dns servers, name servers, etc.) including DNSCrypt,
 ## Limitations
 * A bad actor could simply create their own resolver to bypass identification from this list.
 * This list relies on other lists and is only as accurate as those lists.
-* This may break things like IoT or "smart" devices that require features baked-in to their product.  
+* This may break things like IoT or "smart" devices that require features baked-in to their product.
   * Please report issues with devices.
   * Example: Ring Cameras use Google DNS by default (_Source: [Ring trying 8.8.8.8](https://twitter.com/healeyio/status/1335385974977691649)_)
 
@@ -22,5 +22,5 @@ A list of public resolvers (dns servers, name servers, etc.) including DNSCrypt,
 * [Combined - All known Resolvers](https://github.com/healey.io/public-list-of-name-servers/)
 * [DNS Resolvers](https://github.com/healey.io/public-list-of-name-servers/)
 * [DoH, DNSCrypt, DoT Resolvers](https://github.com/healey.io/public-list-of-name-servers/)
-* [Combined - All known with sources](https://github.com/healey.io/public-list-of-name-servers/)  
+* [Combined - All known with sources](https://github.com/healey.io/public-list-of-name-servers/)
   * **_Note: Use only for troubleshooting or identifying where a server originated_**
