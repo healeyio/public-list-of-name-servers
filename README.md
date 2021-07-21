@@ -15,3 +15,5 @@ A list of public name servers including DNSCrypt, DoT, and DoH resolvers compile
 * [Combined - All known Resolvers](https://github.com/healey.io/public-list-of-name-servers/)
 * [DNS Resolvers](https://github.com/healey.io/public-list-of-name-servers/)
 * [DoH, DNSCrypt, DoT Resolvers](https://github.com/healey.io/public-list-of-name-servers/)
+* [Combined - All known with sources](https://github.com/healey.io/public-list-of-name-servers/)
+** **_Note: Use only for troubleshooting or identifying where a server originated_**
