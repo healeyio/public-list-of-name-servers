@@ -16,7 +16,7 @@ A list of public resolvers (dns servers, name servers, etc.) including DNSCrypt,
 * This list relies on other lists and is only as accurate as those lists.
 * This may break things like IoT or "smart" devices that require features baked-in to their product.  
   * Please report issues with devices.
-  * Example: Ring Cameras use Google DNS by default (_src [Ring trying 8.8.8.8](https://twitter.com/healeyio/status/1335385974977691649)_)
+  * Example: Ring Cameras use Google DNS by default (_Source: [Ring trying 8.8.8.8](https://twitter.com/healeyio/status/1335385974977691649)_)
 
 ## Lists
 * [Combined - All known Resolvers](https://github.com/healey.io/public-list-of-name-servers/)
